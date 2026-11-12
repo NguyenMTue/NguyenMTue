@@ -7,7 +7,7 @@ My name is Tue and I'm a software developer. I'm from Vietnam, living in Da Nang
 ### 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,aws,cs,dotnet,java,spring,py,mysql,mongodb,firebase,linux,docker,redis&perline=15" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,nextjs,react,tailwind,postgres,mysql,supabase,redis,docker,aws,git,github,postman&perline=16" />
 </p>
 
 ---
